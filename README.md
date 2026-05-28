@@ -4,8 +4,17 @@ Browser-playable version of **How to Date a Sleep Paralysis Demon** for mobile a
 
 ## 🌙 Play Online
 
-👉 https://howtodateasleepparalysisdemon.live/
+👉 Primary Play Link  
 
+https://howtodateasleepparalysisdemon.live/
+
+👉 Alternative / GitHub Pages Version  
+
+https://cherryyan1987.github.io/how-to-date-a-sleep-paralysis-demon-browser/
+
+Both versions provide browser access to the game.  
+
+The main site is recommended for best experience.
 Play instantly in your browser. No download required.
 
 Works on:
